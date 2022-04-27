@@ -1,0 +1,10 @@
+Package         Version
+--------------- -------
+bottle          0.12.19
+pexpect         4.8.0
+pip             22.0.4
+psycopg2-binary 2.9.3
+ptyprocess      0.7.0
+schedule        1.1.0
+setuptools      60.10.0
+wheel           0.37.1
